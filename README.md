@@ -1,0 +1,2 @@
+# greenCoin
+my own coin
